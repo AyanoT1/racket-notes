@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "terminal.integrated.cursorStyle": "line",
+    "[racket]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+        "editor.formatOnSave": true
+    },
+}
